@@ -1,0 +1,25 @@
+---
+title: "About"
+about: 
+  template: jolla
+  image: 97091678920554_.pic.jpg
+  image-width: 5cm
+  image-shape: round
+  links: 
+    - icon: github
+      text: Github
+      href: https://github.com/Yichen-He616
+    - icon: linkedin
+      text: linkedin
+      href: http://uk.linkedin.com/in/deyu-ming-03607230
+    
+---
+## Education
+UCL
+---
+
+About this site
+
+```{r}
+1 + 1
+```

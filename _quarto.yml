@@ -1,0 +1,30 @@
+project:
+  type: website
+  output-dir: docs
+
+execute: 
+  freeze: true
+
+website:
+  title: "Yichen"
+  description: The personal website of Yichen
+  twitter-card: true
+  open-graph: true
+  navbar:
+    search: true
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+    right:
+      - icon: linkedin
+        href: www.linkedin.com
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+

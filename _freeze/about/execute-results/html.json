@@ -1,0 +1,14 @@
+{
+  "hash": "69059efd3d953386340e5c97e2c5c9a7",
+  "result": {
+    "markdown": "---\ntitle: \"About\"\nabout: \n  template: jolla\n  image: 97091678920554_.pic.jpg\n  image-width: 5cm\n  image-shape: round\n  links: \n    - icon: github\n      text: Github\n      href: https://github.com/Yichen-He616\n    - icon: linkedin\n      text: linkedin\n      href: http://uk.linkedin.com/in/deyu-ming-03607230\n    \n---\n\n## Education\nUCL\n\n---\n\nAbout this site\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
